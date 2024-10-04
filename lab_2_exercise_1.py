@@ -12,4 +12,4 @@ try:
     print(f"The result of {base} raised to the power of {exponent} is {result}")
 
 except ValueError:
-    
+    print("Invalid input. Please enter valid integers for base and exponent.")

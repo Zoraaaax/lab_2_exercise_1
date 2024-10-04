@@ -1,0 +1,2 @@
+def number(base, exponent):
+    

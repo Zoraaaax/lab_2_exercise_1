@@ -9,4 +9,5 @@ try:
     base = int(input("Enter the base: "))
     exponent = int(input("Enter the exponent: "))
     result = number(base, exponent)
+    print(f"The result of {base} raised to the power of {exponent} is {result}")
     

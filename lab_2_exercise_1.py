@@ -8,4 +8,5 @@ def number(base, exponent):
 try:
     base = int(input("Enter the base: "))
     exponent = int(input("Enter the exponent: "))
+    result = number(base, exponent)
     

@@ -6,4 +6,5 @@ def number(base, exponent):
 
 
 try:
+    base = int(input("Enter the base: "))
     
